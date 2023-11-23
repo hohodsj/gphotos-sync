@@ -75,3 +75,4 @@ Alternatives
 For a commercial product that backs up your library to the cloud see:
 See https://photovaultone.com/
 
+Setup Guide: https://docs.google.com/document/d/1Gu51eP58CZgYGpyrGN52iWP-9BkNhZgpCgo-t3E2Ym8/edit
